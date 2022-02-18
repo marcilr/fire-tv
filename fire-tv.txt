@@ -6,9 +6,31 @@ Copyright (C) 2022 by Raymond E. Marcil <marcilr@gmail.com>
 Fire TV Stick 4K
 
 
+model:          Fire TV Stick 4K
+cpu:            powerful quad core processor (back of box)
+video:          4K Ultra HD at up to 60 fps
+wifi:           WiFi 802.11AC
+Dolby:          Dolby Vision and HDR
+                Dolby Atmos
+Order:          Fire TV Stick 4K with all-new Alexa Voice Remote, 
+                streaming media player
+Order ID:       113-2599645-705032  (From 2018 amazon.com receipt)
+                113-3782421-7480262 (From February 18, 2019 receipt)
+Serial Numbers: G070VM09901705B0
+                G070VM099017062G
+Ordered:        December 14, 2018
+                February 18, 2019, Order# 113-3782421-7480262
+Purchased:      Purchased 4 times.
+Last purchased: Feb 18, 2019.
+amazon.com:     Accounts & Lists > Orders
+price:          2x $39.99 = $79.98 (2x Fire TV Stick 4K)
+                2x $10.99 = $21.98 (2x Amazon Ethernet Adapter)
+                           $101.96 Total
+                amazon.com > Accounts & Lists > Orders
+
+
 From 2018 amazon.com receipt
-
-
+============================
 Order ID 113-2599645-705032 - Order 14 Devember, 2018
 
 Qty   Item
@@ -41,6 +63,7 @@ Discovery Go
 STARZ
 amazon music
 
+
 Front of box
 ============
 fire tv stick 4K
@@ -62,6 +85,37 @@ https://www.digihelpdesk.co.uk/how-to-find-dsn-on-a-fire-tv-stick-as-well-as-you
 
 Back of box
 ===========
+Powerful cinematic entertainment
+With a powerful quad core processor, you enjoy instant
+access to 4K Ultra HD content at up to 60 fps, the brilliant
+color of Dolby Vision and HDR, and the audio quality of 
+Dolby Atmos.
+
+Tens of thousands of channels, apps, and Alexa skills
+Watch all your favorites from Netflix, Hulu, HBO, Showtime,
+Prime Video, and NBC - plus access liver news and sports,
+as well as millions of websites like YouTube, Facebook,
+and Reddit.
+
+Next-gen Alexa Voice Remote
+Just press and ask to easily find, launch, and control
+content.  Say "Find comedies" or "Play The Good Place" and
+Alexa will respond.  Dedicated power, volume, and mute
+buttons let your control your compatible TV, sound bar, and
+receiver.  Alexa can also switch to cable and control smart
+home devices.
+
+Do more with your Fire TV
+Fire TV is always getting smarter with new Alexa skills
+and voice functionality.  View live camera feeds, check
+the weather, order a pizza and stream millions of songs
+through Amazon Music, Spotify, Panadora, and iHeartRadio.
+
+"Alexa find thriller"
+"Rewimd 30 seconds"
+"Play Westworld"
+
+
 ...
 Need to complete
 
